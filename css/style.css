@@ -1,0 +1,16 @@
+
+/* CUSTOM PROPERTIES */
+
+:root{
+    /* COLORS */
+    --clr-wht: hsl(0, 0%, 100%);
+    --clr-lgtgry: hsl(212, 45%, 89%);
+    --clr-lgtblu: hsl(220, 15%, 55%);
+    --clr-drkblu: hsl(218, 44%, 22%);
+    /* FONTS */
+    --ff-main: font-family: 'Outfit', sans-serif;
+    --fw-reg: 400;
+    --fw-bold: 700;
+    --fs-small: 15px;
+    --fs-large: 32px;
+}
